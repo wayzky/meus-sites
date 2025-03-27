@@ -33,6 +33,9 @@ main {
     width: 80%;
     margin: 0 auto;
 }
+h3 {
+    color: #ffee8e;
+}
 
 section {
     background-color: rgb(255, 255, 255);
@@ -51,7 +54,7 @@ h2 {
 
 p {
     font-size: 1.1rem;
-    color: #555;
+    color: #555555;
     line-height: 1.6;
     margin-bottom: 15px;
 }
